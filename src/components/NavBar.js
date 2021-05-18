@@ -1,5 +1,5 @@
 import React from "react";
-
+import app from "./App";
 function NavBar() {
   return (
     <nav>
@@ -7,3 +7,4 @@ function NavBar() {
     </nav>
   );
 }
+export default NavBar;
